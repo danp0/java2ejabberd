@@ -8,6 +8,9 @@ chat server over
 
 You will need [maven](https://maven.apache.org) to build this project.
 
+To run the unit tests, make sure you have erlang installed. Change directory
+to factorial and type *make*. Return to the parent directory and type *mvn package*.
+
 ## Usage
 
 To run the application:
