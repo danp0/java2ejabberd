@@ -1,0 +1,9 @@
+{
+  [
+    'src/factorial'
+  ],
+  [
+    {outdir, "ebin"},
+    {i, "include"}
+  ]
+}.
